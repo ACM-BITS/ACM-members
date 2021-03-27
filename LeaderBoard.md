@@ -41,7 +41,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Harsha Neerokonda|0|
 |Jasnoor Kalsi|0|
 |Khushi Biyani|0|
-|Kruti Baraiya|0|
+|Kruti Baraiya|50|
 |Mahavir Chaudhari|0|
 |MEDINI N B|0|
 |Nimish agrawal|0|
