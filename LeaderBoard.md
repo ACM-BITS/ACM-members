@@ -55,7 +55,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Shashank Pandey|0|
 |Shreya Enagnati|0|
 |Shreyas Satapathy|50|
-|Shubhankar Vivek Shastri|0|
+|Shubhankar Vivek Shastri|50|
 |Sriram|0|
 |Stuti Pachori|0|
 |Subh Priyadarshi|0|
