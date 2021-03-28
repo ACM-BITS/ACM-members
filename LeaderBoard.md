@@ -37,7 +37,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Chaitanya chakka|0|
 |Chinmay Jain|0|
 |Dharmesh Varshney|0|
-|Dhaval Maniar|0|
+|Dhaval Maniar|50|
 |Harsha Neerokonda|0|
 |Jasnoor Kalsi|0|
 |Khushi Biyani|0|
