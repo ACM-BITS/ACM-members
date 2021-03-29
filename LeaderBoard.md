@@ -36,7 +36,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Bhargava Uppuluri|0|
 |Chaitanya chakka|0|
 |Chinmay Jain|0|
-|Dharmesh Varshney|0|
+|Dharmesh Varshney|50|
 |Dhaval Maniar|50|
 |Harsha Neerokonda|0|
 |Jasnoor Kalsi|0|
@@ -60,3 +60,4 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Stuti Pachori|0|
 |Subh Priyadarshi|0|
 |VAIBHAV SHUKLA|0|
+
