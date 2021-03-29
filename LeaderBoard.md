@@ -45,7 +45,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Mahavir Chaudhari|0|
 |MEDINI N B|0|
 |Nimish agrawal|50|
-|Parth Kadhane|0|
+|Parth Kadhane|50|
 |Rijul Dahiya|0|
 |Rishabh Khandelwal|50|
 |Ritika Garg|0|
