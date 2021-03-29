@@ -16,7 +16,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Logistics Chair| Aditya Tomar|[adityapst](https://github.com/adityapst) |
 |Events Chair| Hritish Jain| |
 |Publicity Chair| Akshat Rastogi| |
-|Content Chair| Kevin Kizhake Kanichery| |
+|Content Chair| Kevin Biju Kizhake Kanichery|[heavycrystal](https://github.com/heavycrystal) |
 |Design Chair| Anamol Bajpai| |
 
 **ACM-Members**
