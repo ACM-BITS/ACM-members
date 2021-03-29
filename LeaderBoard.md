@@ -44,7 +44,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Kruti Baraiya|50|
 |Mahavir Chaudhari|0|
 |MEDINI N B|0|
-|Nimish agrawal|0|
+|Nimish agrawal|50|
 |Parth Kadhane|0|
 |Rijul Dahiya|0|
 |Rishabh Khandelwal|0|
