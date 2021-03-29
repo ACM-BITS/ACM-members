@@ -22,7 +22,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 **ACM-Members**
 |                   Member                  |           Score           |
 |-------------------------------------------|---------------------------|
-|Abdul Azeem|0|
+|Abdul Azeem|50|
 |Akash Roy|0|
 |Animish Prateek|0|
 |Anish Guruvelli|0|
