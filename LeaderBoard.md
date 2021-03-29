@@ -13,7 +13,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Treasurer| Anuradha Pandey |[pandeyanuradha](https://github.com/pandeyanuradha)|
 |Webmaster| Manan Patel |[mananpatel320](https://github.com/mananpatel320)|
 |Webmaster| Sidharth Anand |[sidharth-anand](https://github.com/sidharth-anand)|
-|Logistics Chair| Aditya Tomar| |
+|Logistics Chair| Aditya Tomar|[adityapst](https://github.com/adityapst) |
 |Events Chair| Hritish Jain| |
 |Publicity Chair| Akshat Rastogi| |
 |Content Chair| Kevin Kizhake Kanichery| |
