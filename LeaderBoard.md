@@ -50,7 +50,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Rishabh Khandelwal|0|
 |Ritika Garg|0|
 |Rohit Sharma Kaipa|0|
-|Sai Srikar Chalamala|0|
+|Sai Srikar Chalamala|50|
 |Samarth Soni|0|
 |Shashank Pandey|0|
 |Shreya Enagnati|0|
