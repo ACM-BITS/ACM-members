@@ -25,7 +25,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Abdul Azeem|50|
 |Akash Roy|0|
 |Animish Prateek|0|
-|Anish Guruvelli|0|
+|Anish Guruvelli|50|
 |Anubhav sharma|0|
 |Anupam Singh|0|
 |Anurodh Chadha|0|
