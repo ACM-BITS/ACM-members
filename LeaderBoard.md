@@ -47,7 +47,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Nimish agrawal|50|
 |Parth Kadhane|0|
 |Rijul Dahiya|0|
-|Rishabh Khandelwal|0|
+|Rishabh Khandelwal|50|
 |Ritika Garg|0|
 |Rohit Sharma Kaipa|0|
 |Sai Srikar Chalamala|50|
