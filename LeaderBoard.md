@@ -49,6 +49,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Rijul Dahiya|0|
 |Rishabh Khandelwal|50|
 |Ritika Garg|0|
+|Rohit Reddy Kotha|50|
 |Rohit Sharma Kaipa|0|
 |Sai Srikar Chalamala|50|
 |Samarth Soni|0|
