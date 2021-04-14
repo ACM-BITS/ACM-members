@@ -40,7 +40,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Dhaval Maniar|50|
 |Harsha Neerokonda|50|
 |Jasnoor Kalsi|0|
-|Khushi Biyani|0|
+|Khushi Biyani|50|
 |Kruti Baraiya|50|
 |Mahavir Chaudhari|0|
 |MEDINI N B|0|
