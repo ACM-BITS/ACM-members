@@ -23,7 +23,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |                   Member                  |           Score           |
 |-------------------------------------------|---------------------------|
 |Abdul Azeem|50|
-|Akash Roy|0|
+|Akash Roy|50|
 |Animish Prateek|0|
 |Anish Guruvelli|50|
 |Anubhav sharma|0|
